@@ -43,6 +43,7 @@ body {
 	background:#EFEFEF;
 	position:relative;
 	z-index:1;
+	box-shadow: 0px 0px 2px #999;
 }
 .mad-festivak-bill::after {
 	position: absolute;
