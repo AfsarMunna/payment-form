@@ -3,6 +3,8 @@
 # Description
 A simple online bill payment form design with the use of html and css. CSS framework bootstrap have also been collaborated to create this payment form. Design structure are simple, easy to develop and amaizing to watch. 
 
+![payment-page](https://user-images.githubusercontent.com/8483755/28633628-4d9fd900-7256-11e7-9b6e-41f207841f45.png)
+
 # how is it being created?
 1.HTML, CSS, BOOTSTRAP are being use to create this payment form.
 # How does it work?
